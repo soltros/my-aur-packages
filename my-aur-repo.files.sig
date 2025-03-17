@@ -1,1 +1,0 @@
-my-aur-repo.files.tar.gz.sig
